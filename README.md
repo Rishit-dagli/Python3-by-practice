@@ -31,7 +31,7 @@ $ git remote -v
 origin  https://github.com/Your_Username/Python3-by-practice.git (fetch)
 origin  https://github.com/Your_Username/Python3-by-practice.git (push)
 ```
-Now, lets add a reference to the original [OpenEDU](https://github.com/marwahmanbir/OpenEDU) repository using
+Now, lets add a reference to the original [Python3-by-practice](https://github.com/Rishit-dagli/Python3-by-practice) repository using
 ```sh
 $ git remote add upstream https://github.com/Rishit-dagli/Python3-by-practice.git
 ```
