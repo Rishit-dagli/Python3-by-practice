@@ -1,14 +1,11 @@
-name: Label PRs
-
+name: "Pull Request Labeler"
 on:
-  - pull_request
+- pull_request
 
 jobs:
-  build:
-
+  triage:
     runs-on: ubuntu-latest
-
     steps:
-    - uses: srvaroa/labeler@master
-      env:
-        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+    - uses: actions/labeler@v2
+      with:
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
