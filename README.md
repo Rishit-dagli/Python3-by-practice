@@ -1,10 +1,10 @@
 # Python3 by practice
-:wave: Welcome to **Python3 by practice**! We are an open source community contributing to compile a collection of learning resources for CSE/IT enthusiasts, or anyone who finds these resources useful to learn Python 3. I also advise you to take a look at [CODE OF CONDUCT](https://github.com/Rishit-dagli/Python3-by-practice/blob/master/CODE_OF_CONDUCT.md) and [CONTRIBUTING](https://github.com/Rishit-dagli/Python3-by-practice/blob/master/CONTRIBUTING.md).
+:wave: Welcome to **Python3 by practice**! We are an open source community contributing to compile a collection of learning resources for CSE/IT enthusiasts, or anyone who finds these resources useful to learn Python 3. 
 
 Show some :heart: and :star: this repository!
 
 ## Wish to contribute to this repository? :sparkles:
-Notes, eBooks, or any type of learning resources are welcome for contribution to this repository so that students from across the :earth_asia: could be benefited. Here are the steps to help you along :scroll:
+Notes, eBooks, or any type of learning resources are welcome for contribution to this repository so that students from across the :earth_asia: could be benefited. I also advise you to take a look at [CODE OF CONDUCT](https://github.com/Rishit-dagli/Python3-by-practice/blob/master/CODE_OF_CONDUCT.md) and [CONTRIBUTING](https://github.com/Rishit-dagli/Python3-by-practice/blob/master/CONTRIBUTING.md). Here are the steps to help you along :scroll:
 
 ### 1. Fork this repository :fork_and_knife:
 You can get your own fork/copy of [Python3 by practice](https://github.com/Rishit-dagli/Python3-by-practice) by using the <a href="https://github.com/Rishit-dagli/Python3-by-practice/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [here](https://github.com/Rishit-dagli/Python3-by-practice/new/master?readme=1#fork-destination-box).
