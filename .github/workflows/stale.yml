@@ -2,7 +2,7 @@
   uses: actions/stale@v3.0.0
   with:
     # Token for the repository. Can be passed in using `{{ secrets.GITHUB_TOKEN }}`.
-    repo-token: `{{ secrets.GITHUB_TOKEN }}`
+    repo-token: ${{ secrets.GITHUB_TOKEN }}
     # The message to post on the issue when tagging it. If none provided, will not mark issues stale.
     stale-issue-message: 'This issue has automatically been marked stale, reopen if you wish to continue further'
     # The message to post on the pr when tagging it. If none provided, will not mark pull requests stale.
