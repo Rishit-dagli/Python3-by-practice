@@ -12,7 +12,7 @@ You can get your own fork/copy of [Python3 by practice](https://github.com/Rishi
  
  
 ### 2. Clone this repository :busts_in_silhouette:
-You need to clone (download a copy of) this repository to your local machine using
+You need to clone (download a copy of) this repository to your local machine using:
 ```sh
 $ git clone https://github.com/Your_Username/Python3-by-practice.git
 ```
