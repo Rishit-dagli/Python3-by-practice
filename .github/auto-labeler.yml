@@ -31,5 +31,14 @@ labels:
       - '\bfeat\b'
     exclude: []
    'ongoing work':
-    include:
-      - '\b(WIP|work in progress|ongoing work|work ongoing)\b'
+     include:
+       - '\b(WIP|work in progress|ongoing work|work ongoing)\b'
+     exclude: []
+   'Blogs':
+     include:
+       - '\b*[Bb]logs*\b'
+     exclude: []
+    'EBooks':
+      include:
+        - '\b*[Ee][Bb]ooks*\b'
+      exclude: []
