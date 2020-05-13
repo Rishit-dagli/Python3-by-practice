@@ -9,5 +9,5 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: 'Hello!, You are contributing to open-source content, Congratulations on your'' first issue'
-        pr-message: 'WoW!, You are contributing to open-source content, Congratulations on your'' first pr'
+        issue-message: 'Hello!, Thanks for submitting this issue, Congratulations on your'' first issue'
+        pr-message: 'WoW!, You are contribution might help others learning Python, Congratulations on your'' first pr'
