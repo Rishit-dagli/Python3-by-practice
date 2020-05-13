@@ -1,6 +1,6 @@
 Neo has a complex matrix script. The matrix script is a N X M grid of strings. It consists of alphanumeric characters, spaces and symbols (!,@,#,$,%,&).
 
-
+![](https://github.com/Rishit-dagli/Python3-by-practice/blob/master/Training%20Modules/03.%20Regex/3.07%20Matrix%20Script/matrix%20script.jpg)
 
 To decode the script, Neo needs to read each column and select only the alphanumeric characters and connect them. Neo reads the column from top to bottom and starts reading from the leftmost column.
 
