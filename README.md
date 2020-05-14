@@ -1,4 +1,7 @@
 # Python3 by practice
+
+![Python Syntax](https://github.com/Rishit-dagli/Python3-by-practice/workflows/Python%20Syntax/badge.svg)
+
 :wave: Welcome to **Python3 by practice**! We are an open source community contributing to compile a collection of learning resources for CSE/IT enthusiasts, or anyone who finds these resources useful to learn Python 3. 
 
 Show some :heart: and :star: this repository!
