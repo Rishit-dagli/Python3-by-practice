@@ -1,0 +1,8 @@
+on: push
+name: Python Syntax
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Rishit-dagli/Python3-by-practice@master
