@@ -96,6 +96,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.rishit.tech"><img src="https://avatars0.githubusercontent.com/u/39672672?v=4" width="100px;" alt=""/><br /><sub><b>Rishit Dagli</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=Rishit-dagli" title="Code">💻</a></td>
+   <td align="center"><a href="http://rashiwal.me/"><img src="https://avatars2.githubusercontent.com/u/31043830?v=4" width="100px;" alt=""/><br /><sub><b>Rohit Ashiwal</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=r1walz" title="Code">💻</a></td>
   </tr>
 </table>
 
