@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "r1walz",
+      "name": "Rohit Ashiwal",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31043830?v=4",
+      "profile": "http://rashiwal.me/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Python3-by-practice",
+  "projectOwner": "Rishit-dagli",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
