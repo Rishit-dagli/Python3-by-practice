@@ -1,6 +1,5 @@
 # Python3 by practice
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 ![Language](https://img.shields.io/badge/language-Python-green.svg)
 ![Python Syntax](https://github.com/Rishit-dagli/Python3-by-practice/workflows/Python%20Syntax/badge.svg)
 
