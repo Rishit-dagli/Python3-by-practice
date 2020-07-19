@@ -5,7 +5,7 @@
 
 :wave: Welcome to **Python3 by practice**! We are an open source community contributing to compile a collection of learning resources
 for CSE/IT enthusiasts, or anyone who finds these resources useful to learn Python 3. If you contributed to this repo in any manner 
-navigate to [Centributors](https://github.com/Rishit-dagli/Python3-by-practice#contributors-) to find your name and photo listed there.
+navigate to [Contributors](https://github.com/Rishit-dagli/Python3-by-practice#contributors-) to find your name and photo listed there.
 
 Show some :heart: and :star: this repository!
 
@@ -47,8 +47,8 @@ See the changes using
 $ git remote -v
 origin    https://github.com/Your_Username/Python3-by-practice.git (fetch)
 origin    https://github.com/Your_Username/Python3-by-practice.git (push)
-upstream  https://github.com/marwahmanbir/Python3-by-practice.git (fetch)
-upstream  https://github.com/marwahmanbir/Python3-by-practice.git (push)
+upstream  https://github.com/Rishit-dagli/Python3-by-practice.git (fetch)
+upstream  https://github.com/Rishit-dagli/Python3-by-practice.git (push)
 ```
 
 ### 4. Ready, Set, Go!!! :turtle::rabbit2:
