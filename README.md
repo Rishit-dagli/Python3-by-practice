@@ -2,6 +2,7 @@
 
 ![Language](https://img.shields.io/badge/language-Python-green.svg)
 ![Python Syntax](https://github.com/Rishit-dagli/Python3-by-practice/workflows/Python%20Syntax/badge.svg)
+![Awesome badge](awesome.svg)
 
 :wave: Welcome to **Python3 by practice**! We are an open source community contributing to compile a collection of learning resources
 for CSE/IT enthusiasts, or anyone who finds these resources useful to learn Python 3. If you contributed to this repo in any manner 
