@@ -1,5 +1,7 @@
 # Python3 by practice
 
+![](images/Python-by-practice.png)
+
 ![Language](https://img.shields.io/badge/language-Python-green.svg)
 ![Python Syntax](https://github.com/Rishit-dagli/Python3-by-practice/workflows/Python%20Syntax/badge.svg)
 ![Awesome badge](images/awesome.svg)
