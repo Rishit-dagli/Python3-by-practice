@@ -1,4 +1,4 @@
-# Get started with TensorFlow and Deep Learning Part-1
+# Get started with TensorFlow and Deep Learning
 
 This same blog is availaible on Medium [here](https://medium.com/@rishit.dagli/get-started-with-tensorflow-and-deep-learning-part-1-72c7d67f99fc)
 
@@ -185,11 +185,13 @@ Some TensorFlow research papers
 
 Hi everyone I am Rishit Dagli
 
-LinkedIn — linkedin.com/in/rishit-dagli-440113165/
+[Twitter](https://twitter.com/rishit_dagli)
 
-Website — rishitdagli.ml
+[Website](https://rishit.tech/)
 
-If you want to ask me some questions, report any mistake, suggest improvements, give feedback you are free to do so via the chat box on the website or by mailing me at —
+If you want to ask me some questions, report any mistake, suggest improvements, give feedback you are free to do so by emailing me at —
 
-* hello@rishitdagli.ml
-* rishit.dagli@gmail.com
+* [rishit.dagli@gmail.com](mailto:rishit.dagli@gmail.com)
+
+* [hello@rishit.tech](mailto:hello@rishit.tech)
+
