@@ -8,9 +8,7 @@ All the code used for the demos in this blog post and some additional examples a
 [**Rishit-dagli/GDG-Ahmedabad-2020**
 *My session at Google Developers Group Ahmedabad about Deploying models to production with TensorFlow model server, 30…*github.com](https://github.com/Rishit-dagli/GDG-Ahmedabad-2020)
 
-I also delivered a talk about this at [GDG (Google Developers Group) Ahmedabad](https://www.meetup.com/GDG-Ahmedabad), find the recorded version here-
-
- <iframe src="https://medium.com/media/94d6eab740af7cfda3f8aaca1b427429" frameborder=0></iframe>
+I also delivered a talk about this at [GDG (Google Developers Group) Ahmedabad](https://www.meetup.com/GDG-Ahmedabad), find the recorded version here- https://youtu.be/SD5ePd6ouuY
 
 The slide deck for the same is available here- [bit.ly/tf-server-deck](https://bit.ly/tf-server-deck)
 
