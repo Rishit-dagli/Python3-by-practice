@@ -70,7 +70,7 @@ Let us start by talking about transfer learning, the thing which gives TF Hub it
 
 So what you do with TF Hub is that someone takes all this what is required to make a model from scratch makes what is called a module and then takes out some part of the model which is reusable. So in the case of text, we use word embeddings which give it a lot of power and often require quite some compute to train. In the case of images, it could be features. So you have this reusable part from a module in the TF Hub repo. With transfer learning this reusable piece could be used in your different models and it might even serve a different purpose and this is essentially how you would be using TF Hub. So when I say different purpose it could maybe be a classifier trained on a thousand labels but you just use it to predict or do a distinction between 3 classes. That’s just one example but you now maybe understand it.
 
-**Why use Transfer Learning?**
+### Why use Transfer Learning?
 
 * Generalization
 
