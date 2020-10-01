@@ -1,5 +1,4 @@
-
-## Building Better AI Apps with TensorFlow Hub
+# Building Better AI Apps with TensorFlow Hub
 
 ![Source: [tensorflow.org](https://www.tensorflow.org/hub)](https://cdn-images-1.medium.com/max/2400/1*G6UhfXXhlEKBvDfTghW1Qg.jpeg)
 
