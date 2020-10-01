@@ -98,8 +98,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.rishit.tech"><img src="https://avatars0.githubusercontent.com/u/39672672?v=4" width="100px;" alt=""/><br /><sub><b>Rishit Dagli</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=Rishit-dagli" title="Code">💻</a></td>
-   <td align="center"><a href="http://rashiwal.me/"><img src="https://avatars2.githubusercontent.com/u/31043830?v=4" width="100px;" alt=""/><br /><sub><b>Rohit Ashiwal</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=r1walz" title="Code">💻</a></td>
+    <td align="center"><a href="https://rashiwal.me/"><img src="https://avatars3.githubusercontent.com/u/31043830?s=460&u=c1c0b00e4e2d21157946cd0b7907d2fb72686fa7&v=4" width="100px;" alt=""/><br /><sub><b>Rohit Ashiwal</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=r1walz" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Aditya-1500"><img src="https://avatars1.githubusercontent.com/u/55556609?v=4" width="100px;" alt=""/><br /><sub><b>Aditya-1500</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=Aditya-1500" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/subhipandey"><img src="https://avatars2.githubusercontent.com/u/33100167?v=4" width="100px;" alt=""/><br /><sub><b>Subhi Pandey</b></sub></a><br /><a href="#content-subhipandey" title="Content">🖋</a></td>
   </tr>
 </table>
 
