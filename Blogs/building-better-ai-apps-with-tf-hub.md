@@ -4,13 +4,9 @@
 
 One of the best things about AI is that you have a lot of open-source content, we use them quite frequently. I will show how TensorFlow Hub makes this process a lot easier and allows you to seamlessly use pre-trained convolutions or word embeddings in your application. We will then see how we could perform Transfer Learning with TF Hub Models and also see how this can expand to other use cases.
 
-All the code used for demos in this blog post are available at this GitHub repo-
-[**Rishit-dagli/GDG-Nashik-2020**
-*My session at Google Developers Group Nashik 2020. Contribute to Rishit-dagli/GDG-Nashik-2020 development by creating…*github.com](https://github.com/Rishit-dagli/GDG-Nashik-2020)
+All the code used for demos in this blog post are available at this GitHub repo- [Rishit-dagli/GDG-Nashik-2020](https://github.com/Rishit-dagli/GDG-Nashik-2020)
 
-I also delivered a talk about this at GDG (Google Developers Group) Nashik, find the recorded version here-
-
- <iframe src="https://medium.com/media/65d1a10c9e4aa574246cf2aa7ae2f0d6" frameborder=0></iframe>
+I also delivered a talk about this at GDG (Google Developers Group) Nashik, find the recorded version here- https://youtu.be/UWBOS06hbfk
 
 ## Motivation behind TF Hub
 
@@ -182,14 +178,30 @@ Let’s say I pass two sentences, I want you to look at the output shape its 2 b
 ## Trying out some examples!
 
 I strongly recommend you to try out these examples for yourself, they can be run in Colab itself. Find them at the GitHub repo for this post-
-[**Rishit-dagli/GDG-Nashik-2020**
-*My session at Google Developers Group Nashik 2020. Contribute to Rishit-dagli/GDG-Nashik-2020 development by creating…*github.com](https://github.com/Rishit-dagli/GDG-Nashik-2020)
+[Rishit-dagli/GDG-Nashik-2020](https://github.com/Rishit-dagli/GDG-Nashik-2020)
 
  1. Neural Style Transfer
 
 A neural style transfer algorithm would ideally require quite some amount of compute and time, we can use TensorFlow Hub to do this easily. We will start by defining some helper functions to convert images to tensors and vice-versa.
 
- <iframe src="https://medium.com/media/a1112c0bf8951258fd4964ffe5f0c120" frameborder=0></iframe>
+```py
+def image_to_tensor(path_to_img):
+    img = tf.io.read_file(path_to_img)
+    img = tf.image.decode_image(img, channels=3, dtype=tf.float32)
+    
+    # Resize the image to specific dimensions
+    img = tf.image.resize(img, [720, 512])
+    img = img[tf.newaxis, :]
+    return img
+
+  def tensor_to_image(tensor):
+    tensor = tensor*255
+    tensor = np.array(tensor, dtype=np.uint8)
+    tensor = tensor[0]
+    plt.figure(figsize=(20,10))
+    plt.axis('off')
+    return plt.imshow(tensor)
+```
 
 You can then convert the images to tensors, create an arbitrary [image stylization model](https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2) model and we can start building images right away!
 
