@@ -1,6 +1,6 @@
 # Linear Regression with scikit-learn in Python
 
-Implemented Using: Jupyter Notebook
+**We use the <a href="https://www.kaggle.com/srolka/ecommerce-customers">Ecommerce Customers</a> Dataset originally contributed by <a href="https://www.kaggle.com/srolka">Steven Rolka</a>**
 
 A brief introduction to Linear Regression:
 
