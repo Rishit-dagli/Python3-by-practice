@@ -1,3 +1,3 @@
 ## Youtube Videos
 
-[Ganesh S Naik](https://www.youtube.com/c/GajeshSNaik)
+- [Ganesh S Naik](https://www.youtube.com/c/GajeshSNaik)
