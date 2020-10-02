@@ -1,5 +1,6 @@
 # QR Code Generator
 _Originally contributed by [@adityaSINGHrox](https://github.com/adityaSINGHrox)_
+
 This is a simple program that generates qr codes for the data provided. You can easily fine tune the code to suit the data you are using.
  
 Consider the following use case to understand how we can use this.
