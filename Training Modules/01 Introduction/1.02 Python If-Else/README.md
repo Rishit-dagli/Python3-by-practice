@@ -12,7 +12,7 @@ Input Format
 
 A single line containing a positive integer, .
 
-##Constraints
+## Constraints
 
 1<=n<=100
 
