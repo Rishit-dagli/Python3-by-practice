@@ -7,7 +7,7 @@
 ![Awesome badge](images/awesome.svg)
 
 :wave: Welcome to **Python3 by practice**! We are an open source community contributing to compile a collection of learning resources
-for CSE/IT enthusiasts, or anyone who finds these resources useful to learn Python 3. If you contributed to this repo in any manner 
+for **Python** and **Machine Learning** enthusiasts, or anyone who finds these resources useful. If you contributed to this repo in any manner 
 navigate to [Contributors](https://github.com/Rishit-dagli/Python3-by-practice#contributors-) to find your name and photo listed there.
 
 Show some :heart: and :star: this repository!
