@@ -15,3 +15,11 @@ A brief introduction to Logistic Regression:
 - The sigmoid function, also called logistic function gives an ‘S’ shaped curve that can take any real-valued number and map it into a value between 0 and 1.
 
 ![Logistic regression curve](https://github.com/Avinashshah099/Python3-by-practice/blob/master/images/Logistic_Reg_S_Curve.png)
+ 
+# Types of Logistic Regression
+
+- **Binary Logistic Regression**: The target variable has only two possible outcomes such as **"Spam or Not Spam"**, **"Cancer or No Cancer"**.
+
+- **Multinomial Logistic Regression**: The target variable has three or more nominal categories such as **predicting the type of Wine**.
+
+- **Ordinal Logistic Regression**: The target variable has three or more ordinal categories such as **restaurant or product rating from 1 to 5**.
