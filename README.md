@@ -102,6 +102,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Aditya-1500"><img src="https://avatars1.githubusercontent.com/u/55556609?v=4" width="100px;" alt=""/><br /><sub><b>Aditya-1500</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=Aditya-1500" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/subhipandey"><img src="https://avatars2.githubusercontent.com/u/33100167?v=4" width="100px;" alt=""/><br /><sub><b>Subhi Pandey</b></sub></a><br /><a href="#content-subhipandey" title="Content">🖋</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/avinkumar"><img src="https://avatars0.githubusercontent.com/u/41837574?v=4" width="100px;" alt=""/><br /><sub><b>Avinash Kumar</b></sub></a><br /><a href="#content-Avinashshah099" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/kushalbargoti"><img src="https://avatars1.githubusercontent.com/u/72150514?v=4" width="100px;" alt=""/><br /><sub><b>Kushal Bargoti</b></sub></a><br /><a href="#content-kushalbargoti" title="Content">🖋</a></td>
   </tr>
 </table>
 
