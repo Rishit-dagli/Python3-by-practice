@@ -18,3 +18,10 @@ Lets have a brief look about **K Mean Clustering**:
 ### Elbow Method
 The basic intution is to calculate the sum of mean square errors and plot the graph as below:
 
+![Elbow Method](https://github.com/aditya9110/Python3-by-practice/blob/master/Machine%20Learning/sklearn%20examples/K%20Mean%20Clustering/elbow%20method.png)
+
+We can see a certain linearity in the graph from k=3 and so we can assign the n_clusters=3.
+
+### Applications:
+- Document Classification 
+- Recommendation Engine
