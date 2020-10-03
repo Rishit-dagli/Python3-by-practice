@@ -14,7 +14,7 @@ A brief introduction to Logistic Regression:
 
 - The sigmoid function, also called logistic function gives an ‘S’ shaped curve that can take any real-valued number and map it into a value between 0 and 1.
 
-![Logistic regression curve](https://github.com/Avinashshah099/Python3-by-practice/blob/master/images/Logistic_Reg_S_Curve.png)
+![Logistic regression curve](https://github.com/Avinashshah099/Python3-by-practice/blob/master/Machine%20Learning/sklearn%20examples/Logistic%20Regression/Logistic_Reg_S_Curve.png)
  
 # Types of Logistic Regression
 
