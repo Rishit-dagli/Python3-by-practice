@@ -7,10 +7,10 @@ Find the sum of all the multiples of 3 or 5 below N.
 
 Sample Test Case:
 
-Input - 10
+Input - 10<br>
 Output - 23
 
-Input - 1000
+Input - 1000<br>
 Output - 233168
 
 Link - https://projecteuler.net/problem=1
