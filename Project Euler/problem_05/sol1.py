@@ -1,29 +1,17 @@
-import math
-
-
-def isprime(no):
-    if no == 2:
-        return True
-    elif no % 2 == 0:
-        return False
-    sq = int(math.sqrt(no)) + 1
-    for i in range(3, sq, 2):
-        if no % i == 0:
-            return False
-    return True
-
-
 def solution(n):
-    """Returns the largest prime factor of a given number n.
+    """Returns the smallest positive number that is evenly divisible(divisible
+    with no remainder) by all of the numbers from 1 to n.
 
-    >>> solution(13195)
-    29
     >>> solution(10)
-    5
-    >>> solution(17)
-    17
+    2520
+    >>> solution(15)
+    360360
+    >>> solution(20)
+    232792560
+    >>> solution(22)
+    232792560
     >>> solution(3.4)
-    3
+    6
     >>> solution(0)
     Traceback (most recent call last):
         ...
@@ -47,24 +35,18 @@ def solution(n):
         raise TypeError("Parameter n must be int or passive of cast to int.")
     if n <= 0:
         raise ValueError("Parameter n must be greater or equal to one.")
-    maxNumber = 0
-    if isprime(n):
-        return n
-    else:
-        while n % 2 == 0:
-            n = n / 2
-        if isprime(n):
-            return int(n)
-        else:
-            n1 = int(math.sqrt(n)) + 1
-            for i in range(3, n1, 2):
-                if n % i == 0:
-                    if isprime(n / i):
-                        maxNumber = n / i
-                        break
-                    elif isprime(i):
-                        maxNumber = i
-            return maxNumber
+    i = 0
+    while 1:
+        i += n * (n - 1)
+        nfound = 0
+        for j in range(2, n):
+            if i % j != 0:
+                nfound = 1
+                break
+        if nfound == 0:
+            if i == 0:
+                i = 1
+            return i
 
 
 if __name__ == "__main__":
