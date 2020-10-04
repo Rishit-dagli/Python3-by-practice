@@ -105,6 +105,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/kushalbargoti"><img src="https://avatars1.githubusercontent.com/u/72150514?v=4" width="100px;" alt=""/><br /><sub><b>Kushal Bargoti</b></sub></a><br /><a href="#content-kushalbargoti" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/artorias111"><img src="https://avatars2.githubusercontent.com/u/48955393?v=4" width="100px;" alt=""/><br /><sub><b>Shriram Bhat</b></sub></a><br /><a href="#content-artorias111" title="Content">🖋</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://www.instagram.com/mr_codeaholic/"><img src="https://avatars0.githubusercontent.com/u/30361120?v=4" width="100px;" alt=""/><br /><sub><b>Preetam Rane</b></sub></a><br /><a href="#content-Preetam2114" title="Content">🖋</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
