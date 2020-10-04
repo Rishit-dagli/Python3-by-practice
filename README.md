@@ -107,6 +107,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://www.instagram.com/mr_codeaholic/"><img src="https://avatars0.githubusercontent.com/u/30361120?v=4" width="100px;" alt=""/><br /><sub><b>Preetam Rane</b></sub></a><br /><a href="#content-Preetam2114" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/ChiragSaxena5437"><img src="https://avatars0.githubusercontent.com/u/64087682?v=4" width="100px;" alt=""/><br /><sub><b>Chirag saxena</b></sub></a><br /><a href="#content-ChiragSaxena5437" title="Content">🖋</a></td>
   </tr>
 </table>
 
