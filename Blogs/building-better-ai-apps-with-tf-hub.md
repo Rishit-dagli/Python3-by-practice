@@ -1,5 +1,7 @@
 # Building Better AI Apps with TensorFlow Hub
 
+This same blog is availaible on Medium [here](https://towardsdatascience.com/building-better-ai-apps-with-tf-hub-88716b302265)
+
 ![Source: [tensorflow.org](https://www.tensorflow.org/hub)](https://cdn-images-1.medium.com/max/2400/1*G6UhfXXhlEKBvDfTghW1Qg.jpeg)
 
 One of the best things about AI is that you have a lot of open-source content, we use them quite frequently. I will show how TensorFlow Hub makes this process a lot easier and allows you to seamlessly use pre-trained convolutions or word embeddings in your application. We will then see how we could perform Transfer Learning with TF Hub Models and also see how this can expand to other use cases.
