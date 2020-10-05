@@ -1,5 +1,4 @@
-
-## Build K-Means from scratch in Python
+# Build K-Means from scratch in Python
 
 ![Final output of the K-Means algorithm](https://cdn-images-1.medium.com/max/2000/1*E9R_N48ftoul7kp1y9-OIg.gif)
 
@@ -121,7 +120,7 @@ So, we easily infer that K is 4.
 
 ## Python Implementation
 
- <iframe src="https://medium.com/media/a7a01408d575696c8aeda209a5a6fcc7" frameborder=0></iframe>
+
 
 Here we will use the libraries, Matplotlib to create visualizations and Numpy to perform calculation.
 
