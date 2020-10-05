@@ -1,5 +1,7 @@
 # Build K-Means from scratch in Python
 
+This same blog is availaible on Medium [here](https://medium.com/@rishit.dagli/build-k-means-from-scratch-in-python-e46bf68aa875)
+
 ![Final output of the K-Means algorithm](https://cdn-images-1.medium.com/max/2000/1*E9R_N48ftoul7kp1y9-OIg.gif)
 
 ## Introduction to K-means Clustering
