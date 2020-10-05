@@ -120,7 +120,7 @@ So, we easily infer that K is 4.
 
 ## Python Implementation
 
-
+![](https://media1.giphy.com/media/12vVAGkaqHUqCQ/giphy.gif)
 
 Here we will use the libraries, Matplotlib to create visualizations and Numpy to perform calculation.
 
