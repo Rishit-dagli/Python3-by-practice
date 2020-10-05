@@ -4,7 +4,7 @@ of a given number N?
 
 e.g. for 10, largest prime factor = 5. For 17, largest prime factor = 17.
 
-Sample Test Case:
+### Sample Test Case:
  
  Input - 13195<br>
  Output - 29
