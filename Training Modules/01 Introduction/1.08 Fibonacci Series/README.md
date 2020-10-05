@@ -1,31 +1,29 @@
-<h1>Fibonacci Sequence</h1>
+# Fibonacci Sequence
 Fibonacci series is a series in which each number is the sum of the preceding two numbers.
 
 By default, the first two numbers of a Fibonacci series are 0 and 1
-INPUT FORMAT:
+
+## Input Format:
 
 Input consists of an integer
 
-OUTPUT FORMAT:
+# Output Format:
 
 A single line of output containing the Fibonacci series until 7 values.
 
-
-
 SAMPLE INPUT:
 
+```
 7
-
+```
 
 SAMPLE OUTPUT:
 
+```
 0 1 1 2 3 5 8
+```
 
-
-PREREQUISITE KNOWLEDGE:while loop in Python and Recursion in Python
-
-Algorithm for printing Fibonacci series using a while loop
-
+## Pseudo code
 
 Step 1:Input the 'n' value until which the Fibonacci series has to be generated
 
