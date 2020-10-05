@@ -1,5 +1,7 @@
 # Deploying models to production with TensorFlow model server
 
+This same blog is availaible on Medium [here](https://towardsdatascience.com/deploying-models-to-production-with-tensorflow-model-server-225a81859031)
+
 ![Source: [tensorflow.org](https://www.tensorflow.org/tfx)](https://cdn-images-1.medium.com/max/5986/1*lA1buzY2NM6NXQhHXx25Rg.png)
 
 Model creation is definitely an important part of AI applications but it is very important to also know what after training. I will be showing how you could serve TensorFlow models over HTTP and HTTPS and do things like model versioning or model server maintenance easily with TF Model Server. You will also see the steps required for this and the process you should follow. We will also take a look at Kubernetes and GKE to autoscale your deployments.
