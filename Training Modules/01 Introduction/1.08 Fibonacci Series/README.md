@@ -1,10 +1,7 @@
 # Fibonacci Sequence
- Fond at: https://www.faceprep.in/python/fibonacci-series-in-python/
+Original problem link: https://www.faceprep.in/python/fibonacci-series-in-python/
  
- 
-Fibonacci series is a series in which each number is the sum of the preceding two numbers.
-
-By default, the first two numbers of a Fibonacci series are 0 and 1
+Fibonacci series is a series in which each number is the sum of the preceding two numbers. By default, the first two numbers of a Fibonacci series are 0 and 1
 
 ## Input Format:
 
