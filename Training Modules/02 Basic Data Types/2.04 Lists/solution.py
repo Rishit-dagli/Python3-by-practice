@@ -6,7 +6,7 @@ for _ in range (test):
     if cmd[0]=='insert':
         s.insert(int(cmd[1]),int(cmd[2]))
     elif cmd[0]=="remove":
-        s.remove(int(cmd[1]))
+        del s[int(cmd[1])]
     elif cmd[0]=="append":
         s.append(int(cmd[1]))
     elif cmd[0]=="sort":
