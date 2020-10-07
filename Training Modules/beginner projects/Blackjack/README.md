@@ -23,6 +23,6 @@
         name – string variable that stores name of the player or dealer
 
    • Player Methods
-        calcHand – returns the calculated total of points in hand
-        showHand – prints out player’s hand in a nicely formatted statement
-        addCard – takes in a card and adds it to the player’s hand
+        calcHand – returns the calculated total of points in hand.
+        showHand – prints out player’s hand in a nicely formatted statement.
+        addCard – takes in a card and adds it to the player’s hand.
