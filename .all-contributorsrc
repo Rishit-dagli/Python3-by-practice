@@ -121,6 +121,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "jagadyudha",
+      "name": "Jagad yudha",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/41937681?v=4",
+      "profile": "http://jagadyudha.github.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
