@@ -8,7 +8,7 @@
 
 - SVM offers very high accuracy compared to other classifiers such as logistic regression, and decision trees. It separates data points using a hyperplane with the large amount of margin. So, it's also known as **Discriminative classifier**.
 
-![Support Vector Machine](https://github.com/Avinashshah099/Python3-by-practice/blob/master/Machine%20Learning/sklearn%20examples/Support%20Vector%20Machines(SVM)/svm_separation.png)
+![Support Vector Machine](Machine Learning/sklearn examples/Support Vector Machines(SVM)/svm_separation.png)
 
 ## SVM Kernals
 
