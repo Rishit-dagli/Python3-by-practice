@@ -114,6 +114,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/chetak123"><img src="https://avatars1.githubusercontent.com/u/53306550?v=4" width="100px;" alt=""/><br /><sub><b>Ayushman</b></sub></a><br /><a href="#content-chetak123" title="Content">🖋</a></td>
     <td align="center"><a href="http://jagadyudha.github.io"><img src="https://avatars2.githubusercontent.com/u/41937681?v=4" width="100px;" alt=""/><br /><sub><b>Jagad yudha</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=jagadyudha" title="Code">💻</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/gpriya32"><img src="https://avatars3.githubusercontent.com/u/43782307?v=4" width="100px;" alt=""/><br /><sub><b>Priyanka Gupta</b></sub></a><br /><a href="#content-gpriya32" title="Content">🖋</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
