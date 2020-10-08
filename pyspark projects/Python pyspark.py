@@ -1,4 +1,4 @@
-#Spark configuration
+#Spark configuration and example
 
 from pyspark import SparkConf, SparkContext
 appName='myapp'
