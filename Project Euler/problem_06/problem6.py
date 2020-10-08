@@ -13,7 +13,7 @@ def dif(a,b):
     d = a - b
     print(d)
 
-num = 100
+num = 25
 
 dif(nsum(num),ssum(num))
 
