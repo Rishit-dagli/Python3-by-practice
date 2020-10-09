@@ -540,7 +540,6 @@ To say they are very important and **NumPy** also have functions for them. You c
 * **Mean** - The average value
 * To calculate the mean, find the sum of all values, and divide the sum by the number of values.
 
-![Mean](https://lh3.googleusercontent.com/proxy/QnXiPrzZflwwDosyGQ0amgEpTdIRNpcvvRRZ8pz0mzpauarFHfCuuKzE9yTtnDxNRa1Wb0Dr0xr0YLZzhZBAy841_ZwK2IeLwP3418oyT3Q-NTH0BwrVB_O6758UTurLV4UyauXw9tjH)
 
 **As you all know Python makes everything easy see it yourself.**
 ```python
