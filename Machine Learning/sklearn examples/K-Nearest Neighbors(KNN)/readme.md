@@ -32,7 +32,7 @@ Suppose we have a dataset, And we need to classify new data point with black dot
 
 We have assumed K = 3.So, it would find three nearest data points. Again we assumed K = 7, then it find seven nearest data points.
 
-![K-Nearest Neighbors](Machine Learning/sklearn examples/Support Vector Machines(SVM)/svm_separation.png)
+![K-Nearest Neighbors](https://github.com/Avinashshah099/Python3-by-practice/blob/master/Machine%20Learning/sklearn%20examples/K-Nearest%20Neighbors(KNN)/knn.png)
 
 ## Some Use Cases:
 
