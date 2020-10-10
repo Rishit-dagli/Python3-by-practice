@@ -8,30 +8,7 @@ These datasets can be viewed as classification or regression tasks. The classes 
 
 ## Content
 
-Input variables (based on physicochemical tests):
+- The datasets consists of several physicochemical predictor variables and one target variable **quality**.
+- Predictor variables includes the fixed acidity, volatile acidity, citric acid, residual sugar
+chlorides,pH and so.
 
-1 - fixed acidity
-
-2 - volatile acidity
-
-3 - citric acid
-
-4 - residual sugar
-
-5 - chlorides
-
-6 - free sulfur dioxide
-
-7 - total sulfur dioxide
-
-8 - density
-
-9 - pH
-
-10 - sulphates
-
-11 - alcohol
-
-**Output variable (based on sensory data)**:
-
-12 - quality (score between 0 and 10)
