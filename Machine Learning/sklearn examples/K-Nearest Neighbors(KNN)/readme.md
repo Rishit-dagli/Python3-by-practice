@@ -4,25 +4,25 @@
 
 ## A brief introduction to K-Nearest Neighbors(KNN):
 
-- **K-nearest neighbors (KNN)** algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems.
+- K-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems.
 
 - The following two properties would define KNN well as :
 
-> **Lazy learning algorithm** : KNN is a lazy learning algorithm because it does not have a specialized training phase and uses all the data for training while classification.
+  * Lazy learning algorithm : KNN is a lazy learning algorithm because it does not have a specialized training phase and uses all the data for training while classification.
 
-> **Non-parametric learning algorithm** : KNN is also a non-parametric learning algorithm because it doesn’t assume anything about the underlying data.
+  * Non-parametric learning algorithm : KNN is also a non-parametric learning algorithm because it doesn’t assume anything about the underlying data.
 
-- K-nearest neighbors (KNN) algorithm uses **feature similarity** to predict the values of new datapoints based on the distance from the training set.
+- K-nearest neighbors (KNN) algorithm uses feature similarity to predict the values of new datapoints based on the distance from the training set.
 
 ### Different ways to calculate the distance in KNN:
 
-> Euclidean Method
+- Euclidean Method
 
-> Manhattan Method
+- Manhattan Method
 
-> Minkowski Method
+- Minkowski Method
 
-> Hamming Method
+- Hamming Method
 
 The most commonly used method to calculate distance is Euclidean.
 
@@ -32,16 +32,12 @@ Suppose we have a dataset, And we need to classify new data point with black dot
 
 We have assumed K = 3.So, it would find three nearest data points. Again we assumed K = 7, then it find seven nearest data points.
 
-![K-Nearest Neighbors](https://github.com/Avinashshah099/Python3-by-practice/blob/master/Machine%20Learning/sklearn%20examples/K-Nearest%20Neighbors(KNN)/knn.png)
+![K-Nearest Neighbors](knn.png)
 
 ## Some Use Cases:
 
-> Finance
-
-> Healthcare
-
-> Politics(VOTE)
-
-> Credit Ratings
-
-> Handwriting Detection
+- Finance
+- Healthcare
+- Politics(VOTE)
+- Credit Ratings
+- Handwriting Detection
