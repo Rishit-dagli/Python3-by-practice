@@ -1,11 +1,9 @@
-import math
-
 # This solution aims to try every numbers until we detect 10001 prime numbers
 
+import math
 
 def isEven(nb):
     return nb % 2 == 0
-
 
 # A prime number is a number that can only be divisible by 1 or itself
 # Facts about prime numbers:
@@ -27,7 +25,6 @@ def isPrime(nb):
         if nb % f == 0:
             return False
     return True
-
 
 # `count` starts to 1 because we already know that 2 is prime
 # but it will not be computed in this loop as we skip all even numbers
