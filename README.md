@@ -117,6 +117,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/gpriya32"><img src="https://avatars3.githubusercontent.com/u/43782307?v=4" width="100px;" alt=""/><br /><sub><b>Priyanka Gupta</b></sub></a><br /><a href="#content-gpriya32" title="Content">🖋</a></td>
     <td align="center"><a href="https://theja-vanka.github.io/"><img src="https://avatars0.githubusercontent.com/u/22734103?v=4" width="100px;" alt=""/><br /><sub><b>Krishnatheja Vanka</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=theja-vanka" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sujoy-coder"><img src="https://avatars1.githubusercontent.com/u/65298629?v=4" width="100px;" alt=""/><br /><sub><b>sujoy-coder</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=sujoy-coder" title="Code">💻</a></td>
   </tr>
 </table>
 
