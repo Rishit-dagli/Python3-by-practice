@@ -18,7 +18,7 @@ I expect that you have worked with some Deep Learning models and made a few mode
 
 ## Motivation behind a process for deployment
 
-![Source: me.me](https://cdn-images-1.medium.com/max/2000/0*hALERWCftjdnBde-)
+![Source: me.me](https://cdn-images-1.medium.com/max/2000/0*hALERWCftjdnBde-))
 
 This is a very accurate representation of the ideal scenario, your model works well or does a good job in the testing or development set and when you bring it out in the real world or production that is when problems start coming and things start failing. You further need to ensure your model is up and running all the time and your users have an easy way to interact with the model. It should also work well on all platforms be it web, Android, IoS, or embedded systems. You would need to have a resilient pipeline to serve your model and an efficient way to pass data. These are just a few differences between production and development.
 
