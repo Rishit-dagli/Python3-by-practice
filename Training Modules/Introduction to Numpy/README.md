@@ -618,7 +618,8 @@ To say they are very important and **NumPy** also have functions for them. You c
 
 # Hooray, Congratulations You finished this module now you know the basics of NumPy..:smile:
 # Kudos on the Achievement..
-## If you really developed an interest in NumPy and want dive deep into it, check out the resources below.....
+
+## Credits to these wonderful resources:
 * [NumPy](https://numpy.org/devdocs/user/absolute_beginners.html)
 * [W3schools](https://www.w3schools.com/python/numpy_intro.asp)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/python-numpy/)
