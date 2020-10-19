@@ -194,6 +194,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "antonioalmeidab",
+      "name": "Antonio Almeida",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/40811660?v=4",
+      "profile": "https://github.com/antonioalmeidab",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
