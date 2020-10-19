@@ -1,4 +1,3 @@
-![Numpy](https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png)
 # NumPy
 NumPy **(Numerical Python)** is an open source Python library that’s used  for working with numerical data in Python.
 It is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays. It is the fundamental package for scientific computing with Python.
