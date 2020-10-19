@@ -123,6 +123,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/kmert10"><img src="https://avatars1.githubusercontent.com/u/10086182?v=4" width="100px;" alt=""/><br /><sub><b>Mert Karakas</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=kmert10" title="Code">💻</a></td>
     <td align="center"><a href="https://karan-ksrk.github.io/"><img src="https://avatars3.githubusercontent.com/u/44173143?v=4" width="100px;" alt=""/><br /><sub><b>karan-ksrk</b></sub></a><br /><a href="#content-karan-ksrk" title="Content">🖋</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/antonioalmeidab"><img src="https://avatars1.githubusercontent.com/u/40811660?v=4" width="100px;" alt=""/><br /><sub><b>Antonio Almeida</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=antonioalmeidab" title="Code">💻</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->
