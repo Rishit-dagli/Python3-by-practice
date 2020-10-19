@@ -121,6 +121,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://jeremie-gauthier.github.io/"><img src="https://avatars0.githubusercontent.com/u/28305181?v=4" width="100px;" alt=""/><br /><sub><b>jergauth</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=jeremie-gauthier" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/cocobaco"><img src="https://avatars3.githubusercontent.com/u/7248405?v=4" width="100px;" alt=""/><br /><sub><b>Roppon Picha</b></sub></a><br /><a href="#content-cocobaco" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/kmert10"><img src="https://avatars1.githubusercontent.com/u/10086182?v=4" width="100px;" alt=""/><br /><sub><b>Mert Karakas</b></sub></a><br /><a href="https://github.com/Rishit-dagli/Python3-by-practice/commits?author=kmert10" title="Code">💻</a></td>
+    <td align="center"><a href="https://karan-ksrk.github.io/"><img src="https://avatars3.githubusercontent.com/u/44173143?v=4" width="100px;" alt=""/><br /><sub><b>karan-ksrk</b></sub></a><br /><a href="#content-karan-ksrk" title="Content">🖋</a></td>
   </tr>
 </table>
 
