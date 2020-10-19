@@ -176,6 +176,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "kmert10",
+      "name": "Mert Karakas",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/10086182?v=4",
+      "profile": "https://github.com/kmert10",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
