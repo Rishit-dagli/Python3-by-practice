@@ -1,10 +1,9 @@
-***LINEAR SEARCH-***
-
+# Linear Search
 A linear search, also known as a sequential search, is a method of finding an element within a list.
 
 It checks each element of the list sequentially until a match is found or the whole list has been searched.
 
-***TASK-***
+## Task
 To search an element using linear search.
 
 1. Create a function searching that takes a list, size and key as arguemnts.
@@ -13,8 +12,7 @@ To search an element using linear search.
 
 3. If no such item is found, -1 is returned.
 
-
-***SAMPLE INPUT-***
+## Sample Input
 
 Enter no. of elements=5
 
@@ -30,8 +28,7 @@ enter element=81
 
 element to be searched=79
 
-
-***SAMPLE OUTPUT-***
+## Sample Output
 
 element present at 4
 
