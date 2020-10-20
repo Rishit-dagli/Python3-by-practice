@@ -1,4 +1,4 @@
-***BINARY SEARCH-***
+# Binary Search
 
 In a nutshell, this search algorithm takes advantage of a collection of elements that is already sorted by ignoring half of the elements after just one comparison.
 
@@ -10,10 +10,10 @@ In a nutshell, this search algorithm takes advantage of a collection of elements
 
 -Else if x is smaller, the target x must lie in the left (lower) half. So we apply the algorithm for the left half.
 
-***TASK-***
+## Task
 To search an element using recursive binary search.
 
-***SAMPLE INPUT-***
+## Sample Input
 
 Enter no. of elements=5
 
@@ -30,12 +30,11 @@ enter element=89
 element to be searched=75
 
 
-***SAMPLE OUTPUT-***
+## Sample Output
 
 element present at 4
 
-
-***TO REMEMBER-***
+## To Remember
 best case= search value present at the middle= O(1)
 
 Worse case = search value not present = O(log n)
